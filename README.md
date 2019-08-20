@@ -12,12 +12,12 @@ The App is written in Dart and uses the Flutter Framework along with the Android
 
 ### Mobile App
 
-![our app](https://imgur.com/zZQnbZK)
+![our app](https://i.imgur.com/zZQnbZK.png)
 
 ### My Collaborators
 
-![my collabs](https://imgur.com/OmIQWCC)
+![my collabs](https://i.imgur.com/OmIQWCC.jpg)
 
 ### License
 
-[MIT] © Kuba Wernerowski, Gaurav Ranganath, Andre Fu
+[MIT](https://github.com/andre-fu/aceso/blob/master/LICENSE) © Kuba Wernerowski, Gaurav Ranganath, Andre Fu
