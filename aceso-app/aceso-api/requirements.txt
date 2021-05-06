@@ -58,7 +58,7 @@ docker==4.0.2
 dotnetcore2==2.1.8
 entrypoints==0.3
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 future==0.17.1
 gast==0.2.2
 google-api-core==1.7.0
