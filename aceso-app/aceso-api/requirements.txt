@@ -196,7 +196,7 @@ tornado==6.0.2
 tqdm==4.32.2
 traitlets==4.3.2
 twilio==6.17.0
-Twisted==17.9.0
+Twisted==22.4.0
 typing==3.7.4
 typing-extensions==3.7.4
 ufw==0.35
